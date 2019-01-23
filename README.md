@@ -6,4 +6,4 @@ This repository contains not only python scripts, which are the core code to imp
 
 More information：https://blog.csdn.net/Tong_jy/article/details/81023239
 
-![1548203587327](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1548203587327.png)
+![image](https://github.com/TongJiayan/Chess/blob/master/image/1.png)
